@@ -1,0 +1,28 @@
+.header{
+    border: 4px solid black;
+    height: 300px;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.header .logo{
+    height: 50px;
+}
+.title-container{
+    color: rgba(255, 255, 255, 0.699);
+    text-align: center;
+    font-size: 2em;
+}
+.nav{
+    margin-left: 200px;
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+    
+  }
+  
+  .nav a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.877);
+    font-weight: bold;
+  }
